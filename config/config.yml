@@ -1,0 +1,5 @@
+CREDENTIALS:
+  USERNAME: 'USERNAME'
+  PASSWORD: 'PASSWORD'
+REMOVE_FOLLOWERS_COUNT: 1000
+KEEP_FOLLOWERS: [ 'bobmarley', 'snoopdogg', 'infectedmushroom' ]
